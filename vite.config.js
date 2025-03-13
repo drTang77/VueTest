@@ -8,6 +8,7 @@ import legacy from "@vitejs/plugin-legacy"
 export default defineConfig({
 	publicPath: './',
 	base:'./',
+	assetsDir:"assets",
   plugins: [
     vue(),
     vueDevTools(),
