@@ -4,7 +4,7 @@ import TheWelcome from './components/TheWelcome.vue'
 </script>
 
 <template>
-	<h2>vue项目测试</h2>
+	<h1>vue项目测试</h1>
  <!-- <header>
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
